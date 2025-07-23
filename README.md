@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋I'm Pratham Sharma</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw33NJECQa-xecFgIMIIHf2T&ust=1753364985943000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCODF_NqP044DFQAAAAAdAAAAABAE">
+<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw33NJECQa-xecFgIMIIHf2T&ust=1753364985943000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCODF_NqP044DFQAAAAAdAAAAABAE"/>
 
 - 🌱 I’m currently learning **Frontend Dev**
 
