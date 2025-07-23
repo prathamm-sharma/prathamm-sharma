@@ -3,7 +3,7 @@ Hi 👋, I'm Pratham Sharma
 
  
  
-. 👀 I’m interested in Full Stack web Dev 
+.  👀 I’m interested in Full Stack web Dev 
  
 . 🌱 I’m currently learning Frontend Dev
  
