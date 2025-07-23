@@ -1,15 +1,8 @@
 Hi 👋, I'm Pratham Sharma
 
-<!--
-**prathamm-sharma/prathamm-sharma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ 👀 I’m interested in Full Stack web Dev 
+ 🌱 I’m currently learning Frontend Dev
+ 👯 I’m looking to collaborate on 
+ 📫 How to reach me: prathamsharma670@gmail.com
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on 
-- 🌱 I’m currently learning Frontend Dev
-- 👯 I’m looking to collaborate on ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
