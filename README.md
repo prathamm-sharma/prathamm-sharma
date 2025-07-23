@@ -13,10 +13,9 @@
 
 
 
-
-
-- 👯 I’m looking to collaborate on **Frontend Projects**
+- 👀 I’m interested in **Full Stack Development**
 - 💡 Exploring **HTML, CSS, Bootsrap, Javascript and Angular**
+- 👯 I’m looking to collaborate on **Frontend Projects**
 - 🎯 Passionate about **building beautiful, responsive websites**
 - 🚀 Always eager to learn and build real-world projects  
 
