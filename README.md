@@ -16,8 +16,8 @@
 
 
 - 👯 I’m looking to collaborate on **Frontend Projects**
-- 💡 Exploring HTML, CSS, JavaScript, Bootstrap, and Angular
-- 🎯 Passionate about building beautiful, responsive websites
+- 💡 Exploring **HTML, CSS, Bootsrap, Javascript and Angular**
+- 🎯 Passionate about **building beautiful, responsive websites**
 - 🚀 Always eager to learn and build real-world projects  
 
 - 📫 How to reach me **prathamsharma670@gmail.com**
