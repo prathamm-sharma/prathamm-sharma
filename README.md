@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋I'm Pratham Sharma</h1>
 <h3 align="center">👋 Hi there! Currently I'm learning Front-End Development</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=prathamm-sharma&label=Profile%20views&color=0e75b6&style=flat" alt="prathamm-sharma" /> </p>
+
 
 
 
