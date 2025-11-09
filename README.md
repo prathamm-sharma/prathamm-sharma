@@ -16,7 +16,7 @@
 
 
 - 👀 I’m interested in **Full Stack Development**
-- 💡 Exploring **HTML, CSS, Bootsrap, Javascript and Angular**
+- 💡 Exploring **HTML, CSS, Bootstrap, Javascript and Angular**
 - 👯 I’m looking to collaborate on **Frontend Projects**
 - 🎯 Passionate about **building beautiful, responsive websites**
 - 🚀 Always eager to learn and build real-world projects  
